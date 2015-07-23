@@ -42,10 +42,10 @@ namespace MagKnowledge.Git
             win.Show();
         }
 
-        //private void Button_Click_3(object sender, RoutedEventArgs e)
-        //{
-        //    Interest1.InterestForm win = new Interest1.InterestForm();
-        //    win.Show();
-        //}
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Interest1.InterestForm win = new Interest1.InterestForm();
+            win.Show();
+        }
     }
 }
